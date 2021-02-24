@@ -54,7 +54,7 @@ img {
 #nav {
 	margin: 0 0 0 0;
 	padding: 15px 30px 10px 30px;
-	background-image: url(../img/about-photo.jpg);
+	background-image: url('../img/about-photo.jpg');
 }
 #nav li a:link {
 	color: #b97148;
@@ -75,7 +75,7 @@ img {
 
 /* すべてのページに適用 footer*/
 #footer {
-	background-image: url(../img/ico_coffee1a_4.gif);
+	background-image: url('../img/ico_coffee1a_4.gif');
 	background-repeat: repeat-x;
 	margin-top: 30px;
 	padding: 20px 0;
