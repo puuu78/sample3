@@ -54,7 +54,7 @@ img {
 #nav {
 	margin: 0 0 0 0;
 	padding: 15px 30px 10px 30px;
-	background-image: url('../img/about-photo.jpg');
+	background-color: #442220;
 }
 #nav li a:link {
 	color: #b97148;
